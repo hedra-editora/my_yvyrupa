@@ -5,19 +5,19 @@
 \contentsline {chapter}{Nhanderu nhamandu tenondegua}{13}
 \contentsline {chapter}{Nhamandu ombojera gua'y marã e'yrã}{17}
 \contentsline {chapter}{Yvy tenonde}{21}
-\contentsline {chapter}{Nhanderu ra'y kuery oguero jera gua'y py'a guax}{25}
+\contentsline {chapter}{Nhanderu ra'y kuery oguero\hfill \penalty -\@M \hfill jera gua'y py'a guax}{25}
 \contentsline {chapter}{Yvy mbyte}{29}
 \contentsline {part}{Desde o início do mundo}{31}
-\contentsline {chapter}{Ka'arua}{35}
-\contentsline {chapter}{Tenondere}{39}
-\contentsline {part}{Lugares renascentes em Yvyrupa}{43}
-\contentsline {chapter}{Yakã ryapy}{47}
-\contentsline {part}{Anexos}{49}
-\contentsline {chapter}{Minha vida nesta terra}{51}
-\contentsline {chapter}{Comissão guarani yvyrupa (\textsc {\MakeTextLowercase {CGY}})}{53}
-\contentsline {chapter}{Poesia e pensamento sobre o futuro da terra}{55}
-\contentsline {chapter}{A tradução do Espírito\emph {, por{} Anita Ekman}}{57}
-\contentsline {section}{A ilustração e a realização deste livro}{62}
-\contentsline {section}{Nota editorial}{65}
-\contentsline {chapter}{Glossário}{67}
+\contentsline {chapter}{Ka'arua}{33}
+\contentsline {chapter}{Tenondere}{37}
+\contentsline {part}{Lugares renascentes em Yvyrupa}{41}
+\contentsline {chapter}{Yakã ryapy}{45}
+\contentsline {chapter}{Minha vida nesta terra}{47}
+\contentsline {chapter}{Comissão guarani yvyrupa (\textsc {\MakeTextLowercase {CGY}})}{49}
+\contentsline {chapter}{Poesia e pensamento sobre o futuro da terra}{51}
+\contentsline {part}{Anexos}{53}
+\contentsline {chapter}{A tradução do Espírito\emph {, por{} Anita Ekman}}{55}
+\contentsline {section}{A ilustração e a realização deste livro}{60}
+\contentsline {section}{Nota editorial}{63}
+\contentsline {chapter}{Glossário}{65}
 \contentsfinish 
