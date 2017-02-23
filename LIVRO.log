@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.9.7)  20 OCT 2016 13:28
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  3 FEB 2017 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,7 +336,7 @@ Package verse [2008/07/23] emulated by memoir.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/home/dosto/texmf/tex/hedraoptions.sty
+(/home/editorial/texmf/tex/hedraoptions.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 165.
 
@@ -360,7 +360,7 @@ Sidefoothsep and sidefootwidth: 7pt and 102pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-) (/home/dosto/texmf/tex/hedrastyles.sty
+) (/home/editorial/texmf/tex/hedrastyles.sty
 (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 LaTeX Info: Redefining \MakeTextUppercase on input line 47.
@@ -370,7 +370,7 @@ LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count137
 ))
-(/home/dosto/texmf/tex/tipografia.sty
+(/home/editorial/texmf/tex/tipografia.sty
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 
@@ -442,7 +442,7 @@ LaTeX Font Info:    Try loading font information for U+OrnementsADF on input li
 ne 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/adforn/uornementsadf.fd))
-(/home/dosto/texmf/tex/hifensextras.sty)
+(/home/editorial/texmf/tex/hifensextras.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
@@ -988,7 +988,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-(/home/dosto/texmf/tex/toc.sty
+(/home/editorial/texmf/tex/toc.sty
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen272
@@ -996,7 +996,7 @@ Package: titletoc 2011/12/15 v1.6 TOC entries
 (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 ))
-(/home/dosto/texmf/tex/hedraextra.sty
+(/home/editorial/texmf/tex/hedraextra.sty
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1110,7 +1110,8 @@ Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
 \c@@sectionNumCenter=\count267
 )
-(/home/dosto/texmf/tex/penalidades.sty) (/home/dosto/texmf/tex/graficos.sty
+(/home/editorial/texmf/tex/penalidades.sty)
+(/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
@@ -1183,7 +1184,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 \imageheight=\skip264
 \imagewidth=\skip265
 
-(/home/dosto/texmf/tex/hedralogo.sty
+(/home/editorial/texmf/tex/hedralogo.sty
 Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -1194,9 +1195,11 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: xetex.def on input line 143.
 ))
-(./fichatecnica.sty) (/home/dosto/texmf/tex/aparatos.sty
-(/home/dosto/texmf/tex/listingx.sty) (/home/dosto/texmf/tex/frontlayout.sty))
-(/home/dosto/texmf/tex/fronthedra.tex) (/home/dosto/texmf/tex/tabelas.sty
+(./fichatecnica.sty) (/home/editorial/texmf/tex/aparatos.sty
+(/home/editorial/texmf/tex/listingx.sty)
+(/home/editorial/texmf/tex/frontlayout.sty))
+(/home/editorial/texmf/tex/fronthedra.tex)
+(/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texlive/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \c@tracingst=\count270
@@ -1299,8 +1302,9 @@ e .
 \@CToldrule=\dimen321
 \CT@t=\box55
 \@CTcurftwidth=\dimen322
-)) (/home/dosto/texmf/tex/versos.sty) (/home/dosto/texmf/tex/commands.sty)
-(./gitrevisioninfo.sty) (./LIVRO.aux (./INTRO.aux) (./INPUTS.aux))
+)) (/home/editorial/texmf/tex/versos.sty)
+(/home/editorial/texmf/tex/commands.sty) (./gitrevisioninfo.sty) (./LIVRO.aux
+(./INPUTS.aux))
 \openout1 = `LIVRO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -1317,8 +1321,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 23.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 23.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1464,7 +1467,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(/home/dosto/texmf/tex/frontconselho.tex)
+(/home/editorial/texmf/tex/frontconselho.tex)
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1500,61 +1503,6 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [5]) [6]
-\openout2 = `INTRO.aux'.
-
- (./INTRO.tex
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'LinuxLibertineO(1)' created for font 'Linux Libertine O' with
-. options
-. [Microtype,Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle,Numbers={Lining}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Linux Libertine
-. O/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Linux Libertine
-. O/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
-. 'bold' (bx/n) with NFSS spec.: <->"Linux Libertine
-. O/B/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Linux Libertine
-. O/B/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
-. 'italic' (m/it) with NFSS spec.: <->"Linux Libertine
-. O/I/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Linux Libertine
-. O/I/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
-. 'bold italic' (bx/it) with NFSS spec.: <->"Linux Libertine
-. O/BI/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Linux Libertine
-. O/BI/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"
-.................................................
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [7
-
-
-
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 37.
-
-Overfull \vbox (19.19997pt too high) has occurred while \output is active []
-
-
-[8])
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [9]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 \openout2 = `INPUTS.aux'.
@@ -1604,21 +1552,59 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <12.5> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.5> not available
 (Font)              size <12> substituted on input line 18.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.26 \ifodd\relax
-                 \else\clearpage\fi
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LinuxLibertineO(1)' created for font 'Linux Libertine O' with
+. options
+. [Microtype,Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle,Numbers={Lining}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Linux Libertine
+. O/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Linux Libertine
+. O/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
+. 'bold' (bx/n) with NFSS spec.: <->"Linux Libertine
+. O/B/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Linux Libertine
+. O/B/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
+. 'italic' (m/it) with NFSS spec.: <->"Linux Libertine
+. O/I/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Linux Libertine
+. O/I/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"-
+. 'bold italic' (bx/it) with NFSS spec.: <->"Linux Libertine
+. O/BI/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Linux Libertine
+. O/BI/OT:script=latn;language=DFLT;protrusion=default,
+. expansion=default;mapping=tex-text;mapping=tex-text;+onum;+lnum;+smcp;"
+.................................................
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+[7
 
-[10
 
 
+] [8
 
-] [11
+]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
+Overfull \vbox (14.72498pt too high) has occurred while \output is active []
+
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+
+[9] [10] [11
 
 ]
 File: ./img/01.png Graphic file (type QTm)
@@ -1631,50 +1617,43 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
- [12]) (./INTROX.tex [13
+ [12]) (./NHANDERUNHAMANDUTENONDEGUA661.tex [13
 
-
-] [14
 
 ]
-Overfull \vbox (14.72498pt too high) has occurred while \output is active []
-
-
-[15]) (./NHANDERUNHAMANDUTENONDEGUA661.tex [16]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [17
+ [14
 
-] [18])
-(./NHAMANDUOMBOJERAGUAYMARAEYRA662.tex [19]
+] [15]) (./NHAMANDUOMBOJERAGUAYMARAEYRA662.tex [16]
 Underfull \hbox (badness 5681) in paragraph at lines 23--27
 \EU1/LinuxLibertineO(0)/m/n/12.5 infinito e sabedoria divina, criou \EU1/LinuxL
 ibertineO(0)/m/it/12.5 Nhamandu
  []
 
-[20
+[17
 
-] [21]) (./YVYTENONDE663.tex
+] [18]) (./YVYTENONDE663.tex
 File: ./img/07.png Graphic file (type QTm)
- <use  "./img/07.png" > [22] [23] [24
+ <use  "./img/07.png" > [19] [20] [21
 
 
-] [25])
+] [22])
 (./NHANDERURAYKUERYOGUEROJERAGUAYPYAGUAX664.tex
 File: ./img/15.png Graphic file (type QTm)
- <use  "./img/15.png" > [26]
-[27] [28
+ <use  "./img/15.png" > [23]
+[24] [25
 
 
-] [29]) (./YVYMBYTE665.tex
+] [26]) (./YVYMBYTE665.tex
 File: ./img/17.png Graphic file (type QTm)
- <use  "./img/17.png" > [30]
+ <use  "./img/17.png" > [27]
 Underfull \hbox (badness 1394) in paragraph at lines 12--21
 \EU1/LinuxLibertineO(0)/m/n/12.5 almente conhecidos pelos \EU1/LinuxLibertineO(
 0)/m/it/12.5 jurua\EU1/LinuxLibertineO(0)/m/n/12.5 , não-indígenas,
  []
 
-[31
+[28
 
 
 ]) (./KAARUA666.tex
@@ -1682,36 +1661,36 @@ Underfull \hbox (badness 1394) in paragraph at lines 12--21
 <to be read again> 
                    \relax 
 l.3 \ifodd\relax
-                \else\clearpage\fi
+                \else\paginabranca\fi
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[32] [33
-
+[29] [30] [31
 
 ]
 File: ./img/18.png Graphic file (type QTm)
- <use  "./img/18.png" > [34]
+ <use  "./img/18.png" > [32]
 File: ./img/19.png Graphic file (type QTm)
- <use  "./img/19.png" > [35
+ <use  "./img/19.png" > [33
 
 
-] [36] [37
+] [34]
+[35
 
 ]
 File: ./img/20.png Graphic file (type QTm)
-
-<use  "./img/20.png" > [38] [39]) (./TENONDERE667.tex
+ <use  "./img/20.png" > [36] [37]) (./TENONDERE667.tex
 File: ./img/21.png Graphic file (type QTm)
- <use  "./img/21.png" >
-[40] [41
+
+<use  "./img/21.png" > [38] [39
 
 
 
-] [42] [43]
+] [40] [41]
 File: ./img/25.png Graphic file (type QTm)
- <use  "./img/25.png" > [44] [45] [46
+ <use  "./img/25.png" > [42] [43]
+[44
 
 
 ]
@@ -1720,33 +1699,32 @@ Underfull \hbox (badness 2772) in paragraph at lines 114--120
 e’i va’e\EU1/LinuxLibertineO(0)/m/n/12.5 , conhecidos atualmente
  []
 
-) (./YAKARYAPY668.tex [47
+) (./YAKARYAPY668.tex [45
 
-]) (./MINHAVIDANESTATERRA675.tex [48
+]) (./MINHAVIDANESTATERRA675.tex [46
 
-] [49
+] [47
 
 ])
 (./COMISSAOGUARANIYVYRUPACGY676.tex
 File: ./img/30.png Graphic file (type QTm)
- <use  "./img/30.png" > [50] [51] [52
+ <use  "./img/30.png" > [48] [49] [50
 
 
 ])
-(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [53])
+(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [51])
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
 l.15 \ifodd\relax
-                 \else\clearpage\fi
+                 \else\paginabranca\fi
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[54
+[52
 
-] [55
-
+] [53] [54
 
 ] (./ATRADUCAODOESPIRITO678.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1755,18 +1733,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [56
+ [55
 
-] [57] [58]
+] [56] [57]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 115.
 
 Overfull \vbox (20.68869pt too high) has occurred while \output is active []
 
 
-[59] [60]
+[58] [59]
 LaTeX Font Info:    Calculating math sizes for size <8.74995> on input line 171
 .
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1802,31 +1778,31 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.37497> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.37497> not available
 (Font)              size <5> substituted on input line 171.
 
-[61] [62]) (./GLOSSARIO679.tex [63] [64] [65
+[60] [61]) (./GLOSSARIO679.tex [62] [63] [64
 
-] [66] [67] [68] [69] [70] [71]))
-[72] 
+] [65] [66] [67] [68] [69] [70]))
+[71] 
 AED: lastpage setting LastPage
-[73
+[72
 
 
-] [74]
+]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- (./LIVRO.aux (./INTRO.aux) (./INPUTS.aux))
+ (./LIVRO.aux (./INPUTS.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.62503pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 25877 strings out of 493638
- 470092 string characters out of 6146797
- 635623 words of memory out of 5000000
- 28721 multiletter control sequences out of 15000+600000
+ 25855 strings out of 493638
+ 469900 string characters out of 6146796
+ 627163 words of memory out of 5000000
+ 28708 multiletter control sequences out of 15000+600000
  20030 words of font info for 117 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  61i,12n,81p,10384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (74 pages).
+Output written on LIVRO.pdf (72 pages).
