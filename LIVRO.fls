@@ -1,4 +1,4 @@
-PWD /home/editorial/Dropbox/LATEX/git/mundoindigena/yvyrupa_guarani
+PWD /home/editorial/Área de Trabalho/PRODUCAO/my_yvyrupa
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -273,14 +273,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /home/editorial/texmf/tex/frontconselho.tex
 INPUT /home/editorial/texmf/tex/frontconselho.tex
-INPUT ../logopac.png
-INPUT ../logopac.png
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT PRETAS.tex
 INPUT PRETAS.tex
 INPUT PRETAS.tex

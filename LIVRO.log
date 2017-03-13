@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  3 FEB 2017 16:41
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  13 MAR 2017 14:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1481,19 +1481,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-File: ../logopac.png Graphic file (type QTm)
- <use  "../logopac.png" >
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 23.
+ [3] (./PRETAS.tex) [4
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3]
-(./PRETAS.tex) [4
-
-] (./LIVRO.toc
+]
+(./LIVRO.toc
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1662,10 +1653,7 @@ Underfull \hbox (badness 1394) in paragraph at lines 12--21
                    \relax 
 l.3 \ifodd\relax
                 \else\paginabranca\fi
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 [29] [30] [31
 
 ]
@@ -1718,10 +1706,7 @@ File: ./img/30.png Graphic file (type QTm)
                    \relax 
 l.15 \ifodd\relax
                  \else\paginabranca\fi
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 [52
 
 ] [53] [54
@@ -1797,11 +1782,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 25855 strings out of 493638
- 469900 string characters out of 6146796
+ 25753 strings out of 493638
+ 468136 string characters out of 6146796
  627163 words of memory out of 5000000
- 28708 multiletter control sequences out of 15000+600000
- 20030 words of font info for 117 fonts, out of 8000000 for 9000
+ 28613 multiletter control sequences out of 15000+600000
+ 19016 words of font info for 115 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  61i,12n,81p,10384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
