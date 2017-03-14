@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  13 MAR 2017 14:16
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  14 MAR 2017 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1493,7 +1493,7 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [5]) [6]
+) [5] [6]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 \openout2 = `INPUTS.aux'.
@@ -1647,38 +1647,31 @@ Underfull \hbox (badness 1394) in paragraph at lines 12--21
 [28
 
 
-]) (./KAARUA666.tex
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.3 \ifodd\relax
-                \else\paginabranca\fi
-? 
-[29] [30] [31
+]) (./KAARUA666.tex [29] [30
 
 ]
 File: ./img/18.png Graphic file (type QTm)
- <use  "./img/18.png" > [32]
+ <use  "./img/18.png" > [31]
 File: ./img/19.png Graphic file (type QTm)
- <use  "./img/19.png" > [33
+
+<use  "./img/19.png" > [32
 
 
-] [34]
-[35
+] [33] [34
 
 ]
 File: ./img/20.png Graphic file (type QTm)
- <use  "./img/20.png" > [36] [37]) (./TENONDERE667.tex
+ <use  "./img/20.png" > [35] [36])
+(./TENONDERE667.tex
 File: ./img/21.png Graphic file (type QTm)
-
-<use  "./img/21.png" > [38] [39
-
+ <use  "./img/21.png" > [37] [38
 
 
-] [40] [41]
+
+] [39] [40]
 File: ./img/25.png Graphic file (type QTm)
- <use  "./img/25.png" > [42] [43]
-[44
+
+<use  "./img/25.png" > [41] [42] [43
 
 
 ]
@@ -1687,47 +1680,41 @@ Underfull \hbox (badness 2772) in paragraph at lines 114--120
 e’i va’e\EU1/LinuxLibertineO(0)/m/n/12.5 , conhecidos atualmente
  []
 
-) (./YAKARYAPY668.tex [45
+) (./YAKARYAPY668.tex [44
 
-]) (./MINHAVIDANESTATERRA675.tex [46
+]) (./MINHAVIDANESTATERRA675.tex [45
 
-] [47
+] [46
 
 ])
 (./COMISSAOGUARANIYVYRUPACGY676.tex
 File: ./img/30.png Graphic file (type QTm)
- <use  "./img/30.png" > [48] [49] [50
+ <use  "./img/30.png" > [47] [48] [49
 
 
 ])
-(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [51])
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.15 \ifodd\relax
-                 \else\paginabranca\fi
-? 
-[52
+(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [50]) [51
 
-] [53] [54
+] [52
 
-] (./ATRADUCAODOESPIRITO678.tex
+]
+(./ATRADUCAODOESPIRITO678.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [55
+ [53
 
-] [56] [57]
+] [54] [55]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 115.
 
 Overfull \vbox (20.68869pt too high) has occurred while \output is active []
 
 
-[58] [59]
+[56] [57]
 LaTeX Font Info:    Calculating math sizes for size <8.74995> on input line 171
 .
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1763,12 +1750,12 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.37497> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.37497> not available
 (Font)              size <5> substituted on input line 171.
 
-[60] [61]) (./GLOSSARIO679.tex [62] [63] [64
+[58] [59]) (./GLOSSARIO679.tex [60] [61] [62
 
-] [65] [66] [67] [68] [69] [70]))
-[71] 
+] [63] [64] [65] [66] [67] [68]))
+[69] 
 AED: lastpage setting LastPage
-[72
+[70
 
 
 ]
@@ -1788,6 +1775,6 @@ Here is how much of TeX's memory you used:
  28613 multiletter control sequences out of 15000+600000
  19016 words of font info for 115 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 61i,12n,81p,10384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,12n,81p,10384b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (72 pages).
+Output written on LIVRO.pdf (70 pages).
