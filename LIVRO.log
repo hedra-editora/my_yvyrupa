@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  15 MAR 2017 16:38
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  15 MAR 2017 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1608,72 +1608,84 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
- [12]) (./NHANDERUNHAMANDUTENONDEGUA661.tex [13
+ [12]) (./NHANDERUNHAMANDUTENONDEGUA661.tex
+File: ./img/2.png Graphic file (type QTm)
+<use  "./img/2.png" > [13
 
 
-]
+] [14]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [14
+File: ./img/03.png Graphic file (type QTm)
+ <use  "./img/03.png" > [15
 
-] [15]) (./NHAMANDUOMBOJERAGUAYMARAEYRA662.tex [16]
+
+] [16] [17
+
+])
+(./NHAMANDUOMBOJERAGUAYMARAEYRA662.tex [18]
 Underfull \hbox (badness 5681) in paragraph at lines 23--27
 \EU1/LinuxLibertineO(0)/m/n/12.5 infinito e sabedoria divina, criou \EU1/LinuxL
 ibertineO(0)/m/it/12.5 Nhamandu
  []
 
-[17
+[19
 
-] [18]) (./YVYTENONDE663.tex
+] [20]) (./YVYTENONDE663.tex
 File: ./img/07.png Graphic file (type QTm)
- <use  "./img/07.png" > [19] [20] [21
+ <use  "./img/07.png" > [21] [22]
+File: ./img/08.png Graphic file (type QTm)
+
+<use  "./img/08.png" > [23
 
 
-] [22])
+] [24]
+File: ./img/09.png Graphic file (type QTm)
+ <use  "./img/09.png" > [25
+
+] [26] [27
+
+])
 (./NHANDERURAYKUERYOGUEROJERAGUAYPYAGUAX664.tex
+File: ./img/13.png Graphic file (type QTm)
+ <use  "./img/13.png" > [28]
+[29] [30
+
+
+]
 File: ./img/15.png Graphic file (type QTm)
- <use  "./img/15.png" > [23]
-[24] [25
+ <use  "./img/15.png" > [31] [32]) (./YVYMBYTE665.tex [33
 
+]
+File: ./img/16.png Graphic file (type QTm)
 
-] [26]) (./YVYMBYTE665.tex
-File: ./img/17.png Graphic file (type QTm)
- <use  "./img/17.png" > [27]
-Underfull \hbox (badness 1394) in paragraph at lines 12--21
-\EU1/LinuxLibertineO(0)/m/n/12.5 almente conhecidos pelos \EU1/LinuxLibertineO(
-0)/m/it/12.5 jurua\EU1/LinuxLibertineO(0)/m/n/12.5 , não-indígenas,
- []
+<use  "./img/16.png" > [34
 
-[28
+]) (./KAARUA666.tex [35
 
-
-]) (./KAARUA666.tex [29] [30] [31
+] [36] [37
 
 ]
 File: ./img/18.png Graphic file (type QTm)
- <use  "./img/18.png" > [32]
-File: ./img/19.png Graphic file (type QTm)
 
-<use  "./img/19.png" > [33
+<use  "./img/18.png" > [38] [39
 
 
-] [34] [35
+] [40]) (./TENONDERE667.tex
+File: ./img/20.png Graphic file (type QTm)
+
+<use  "./img/20.png" > [41] [42] [43
+
 
 ]
-File: ./img/20.png Graphic file (type QTm)
- <use  "./img/20.png" > [36] [37])
-(./TENONDERE667.tex
-File: ./img/21.png Graphic file (type QTm)
- <use  "./img/21.png" > [38] [39
+File: ./img/23.png Graphic file (type QTm)
+ <use  "./img/23.png" > [44] [45] [46
 
+]
+File: ./img/24.png Graphic file (type QTm)
 
+<use  "./img/24.png" > [47] [48] [49
 
-] [40] [41]
-File: ./img/25.png Graphic file (type QTm)
-
-<use  "./img/25.png" > [42] [43] [44
-
-] [45
 
 ]
 Underfull \hbox (badness 2772) in paragraph at lines 114--120
@@ -1681,22 +1693,29 @@ Underfull \hbox (badness 2772) in paragraph at lines 114--120
 e’i va’e\EU1/LinuxLibertineO(0)/m/n/12.5 , conhecidos atualmente
  []
 
-) (./YAKARYAPY668.tex [46
+) (./YAKARYAPY668.tex
+File: ./img/26.png Graphic file (type QTm)
+ <use  "./img/26.png" > [50
 
-]) (./MINHAVIDANESTATERRA675.tex [47
+] [51])
+(./MINHAVIDANESTATERRA675.tex
+File: ./img/31.png Graphic file (type QTm)
+ <use  "./img/31.png" > [52
 
-] [48
+
+] [53] [54
+
 
 ])
 (./COMISSAOGUARANIYVYRUPACGY676.tex
 File: ./img/30.png Graphic file (type QTm)
- <use  "./img/30.png" > [49] [50] [51
+ <use  "./img/30.png" > [55] [56] [57
 
 
 ])
-(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [52]) [53
+(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [58]) [59
 
-] [54] [55
+] [60] [61
 
 ]
 (./ATRADUCAODOESPIRITO678.tex
@@ -1706,16 +1725,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [56
+ [62
 
-] [57] [58]
+] [63] [64]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 115.
 
 Overfull \vbox (20.68869pt too high) has occurred while \output is active []
 
 
-[59] [60]
+[65] [66]
 LaTeX Font Info:    Calculating math sizes for size <8.74995> on input line 171
 .
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1751,15 +1770,15 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.37497> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.37497> not available
 (Font)              size <5> substituted on input line 171.
 
-[61] [62]) (./GLOSSARIO679.tex [63] [64] [65
+[67] [68]) (./GLOSSARIO679.tex [69] [70] [71
 
-] [66] [67] [68] [69] [70] [71]))
-[72] 
+] [72] [73] [74] [75] [76] [77]))
+[78] 
 AED: lastpage setting LastPage
-[73
+[79
 
 
-] [74]
+] [80]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
@@ -1770,12 +1789,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 25753 strings out of 493638
- 468136 string characters out of 6146796
+ 25771 strings out of 493638
+ 468296 string characters out of 6146796
  627163 words of memory out of 5000000
- 28613 multiletter control sequences out of 15000+600000
+ 28625 multiletter control sequences out of 15000+600000
  19016 words of font info for 115 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  61i,12n,81p,10384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (74 pages).
+Output written on LIVRO.pdf (80 pages).
