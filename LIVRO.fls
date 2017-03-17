@@ -241,6 +241,8 @@ INPUT /home/editorial/texmf/tex/commands.sty
 INPUT /home/editorial/texmf/tex/commands.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 INPUT LIVRO.aux
 INPUT LIVRO.aux
 INPUT INPUTS.aux
@@ -338,8 +340,8 @@ INPUT ./img/15.png
 INPUT ./img/15.png
 INPUT YAKARYAPY668.tex
 INPUT YAKARYAPY668.tex
-INPUT ./img/26.png
-INPUT ./img/26.png
+INPUT ./img/25.png
+INPUT ./img/25.png
 INPUT MINHAVIDANESTATERRA675.tex
 INPUT MINHAVIDANESTATERRA675.tex
 INPUT ./img/31.png
