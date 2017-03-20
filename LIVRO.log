@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  17 MAR 2017 17:09
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  20 MAR 2017 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1655,6 +1655,7 @@ File: ./img/08.png Graphic file (type QTm)
 File: ./img/09.png Graphic file (type QTm)
  <use  "./img/09.png" > [26
 
+
 ] [27] [28
 
 ])
@@ -1689,71 +1690,46 @@ File: ./img/26.png Graphic file (type QTm)
 
 
 ]
-Underfull \hbox (badness 4569) in paragraph at lines 56--61
-[]\EU1/LinuxLibertineO(0)/m/n/12.5 Seguindo o rumo de \EU1/LinuxLibertineO(0)/m
-/it/12.5 Kuaray\EU1/LinuxLibertineO(0)/m/n/12.5 , Sol, chega-
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 56--61
-\EU1/LinuxLibertineO(0)/m/n/12.5 muito exuberante, com muitos animais. Até
- []
-
-
-Underfull \hbox (badness 2229) in paragraph at lines 56--61
-\EU1/LinuxLibertineO(0)/m/n/12.5 que finalmente chegam a \EU1/LinuxLibertineO(0
-)/m/it/12.5 Para rembe\EU1/LinuxLibertineO(0)/m/n/12.5 , à mar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
-
- []
-
-[44]
 File: ./img/23.png Graphic file (type QTm)
- <use  "./img/23.png" > [45]
+
+<use  "./img/23.png" > [44] [45]
 File: ./img/20.png Graphic file (type QTm)
- <use  "./img/20.png" > [46
+ <use  "./img/20.png" > [46] [47] [48
 
-] [47] [48] [49
-
-]
-[50
+] [49
 
 ]
 File: ./img/15.png Graphic file (type QTm)
- <use  "./img/15.png" > [51
 
-] [52]
-Underfull \hbox (badness 2772) in paragraph at lines 115--121
+<use  "./img/15.png" > [50]
+Underfull \hbox (badness 2772) in paragraph at lines 117--123
 []\EU1/LinuxLibertineO(0)/m/n/12.5 Nós, \EU1/LinuxLibertineO(0)/m/it/12.5 Nhand
 e’i va’e\EU1/LinuxLibertineO(0)/m/n/12.5 , conhecidos atualmente
  []
 
 ) (./YAKARYAPY668.tex
 File: ./img/25.png Graphic file (type QTm)
- <use  "./img/25.png" > [53
+ <use  "./img/25.png" > [51
 
-] [54])
+] [52])
 (./MINHAVIDANESTATERRA675.tex
 File: ./img/31.png Graphic file (type QTm)
- <use  "./img/31.png" > [55
+ <use  "./img/31.png" > [53
 
 
-] [56] [57
+] [54] [55
 
 
 ])
 (./COMISSAOGUARANIYVYRUPACGY676.tex
 File: ./img/30.png Graphic file (type QTm)
- <use  "./img/30.png" > [58] [59] [60
+ <use  "./img/30.png" > [56] [57] [58
 
 
 ])
-(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [61]) [62
+(./POESIAEPENSAMENTOSOBREOFUTURODATERRA677.tex [59]) [60
 
-] [63] [64
+] [61
 
 ]
 (./ATRADUCAODOESPIRITO678.tex
@@ -1763,16 +1739,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [65
+ [62
 
-] [66] [67]
+] [63] [64]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 114.
 
 Overfull \vbox (20.68869pt too high) has occurred while \output is active []
 
 
-[68] [69]
+[65] [66]
 LaTeX Font Info:    Calculating math sizes for size <8.74995> on input line 169
 .
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1808,15 +1784,15 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.37497> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.37497> not available
 (Font)              size <5> substituted on input line 169.
 
-[70] [71]) (./GLOSSARIO679.tex [72] [73] [74
+[67] [68]) (./GLOSSARIO679.tex [69] [70] [71
 
-] [75] [76] [77] [78] [79] [80]))
-[81] 
+] [72] [73] [74] [75] [76] [77]))
+[78] 
 AED: lastpage setting LastPage
-[82
+[79
 
 
-]
+] [80]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
@@ -1833,6 +1809,6 @@ Here is how much of TeX's memory you used:
  28669 multiletter control sequences out of 15000+600000
  19016 words of font info for 115 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 61i,12n,81p,10384b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,12n,81p,10384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (82 pages).
+Output written on LIVRO.pdf (80 pages).

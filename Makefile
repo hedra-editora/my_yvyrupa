@@ -20,7 +20,6 @@ lua:
 	lualatex  LIVRO.tex
 test:
 	xelatex LIVRO.tex
-	xelatex LIVRO.tex
 	evince LIVRO.pdf
 pdftex:
 	pdflatex --halt-on-error LIVRO.tex

@@ -11,14 +11,14 @@
 \contentsline {part}{Desde o início do mundo}{37}
 \contentsline {chapter}{Ka'arua}{39}
 \contentsline {chapter}{Tenondere}{43}
-\contentsline {part}{Lugares renascentes em Yvyrupa}{50}
-\contentsline {chapter}{Yakã ryapy}{55}
-\contentsline {chapter}{Minha vida nesta Terra}{57}
-\contentsline {chapter}{Comissão guarani yvyrupa (\textsc {\MakeTextLowercase {CGY}})}{60}
-\contentsline {chapter}{Poesia e pensamento sobre o futuro da Terra}{62}
-\contentsline {part}{Anexos}{64}
-\contentsline {chapter}{A tradução do Espírito\emph {, por{} Anita Ekman}}{65}
-\contentsline {section}{A ilustração e a realização deste livro}{70}
-\contentsline {section}{Nota editorial}{73}
-\contentsline {chapter}{Glossário}{74}
+\contentsline {part}{Lugares renascentes em Yvyrupa}{49}
+\contentsline {chapter}{Yakã ryapy}{53}
+\contentsline {chapter}{Minha vida nesta Terra}{55}
+\contentsline {chapter}{Comissão guarani yvyrupa (\textsc {\MakeTextLowercase {CGY}})}{58}
+\contentsline {chapter}{Poesia e pensamento sobre o futuro da Terra}{60}
+\contentsline {part}{Anexos}{61}
+\contentsline {chapter}{A tradução do Espírito\emph {, por{} Anita Ekman}}{62}
+\contentsline {section}{A ilustração e a realização deste livro}{67}
+\contentsline {section}{Nota editorial}{70}
+\contentsline {chapter}{Glossário}{71}
 \contentsfinish 
